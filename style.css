@@ -1,5 +1,4 @@
 
-/* General styles */
 * {
     margin: 0;
     padding: 0;
@@ -14,7 +13,6 @@ body {
     line-height: 1.7;
 }
 
-/* Navigation */
 header {
     background: #111a2e;
     padding: 18px 8%;
@@ -57,7 +55,6 @@ header {
     color: #38bdf8;
 }
 
-/* Home section */
 .hero {
     min-height: 85vh;
     padding: 80px 10%;
@@ -117,7 +114,6 @@ header {
     border: 1px solid #38bdf8;
 }
 
-/* Profile illustration */
 .hero-image {
     text-align: center;
 }
@@ -145,7 +141,6 @@ header {
     color: #94a3b8;
 }
 
-/* Common sections */
 .section {
     padding: 75px 10%;
     text-align: center;
@@ -162,7 +157,6 @@ header {
     color: #94a3b8;
 }
 
-/* Skills cards */
 .skills-section {
     background: #111a2e;
 }
@@ -197,7 +191,6 @@ header {
     font-size: 14px;
 }
 
-/* Education */
 .education-card {
     max-width: 650px;
     margin: auto;
@@ -218,7 +211,6 @@ header {
     margin-top: 8px;
 }
 
-/* Contact */
 .contact-section {
     background: #111a2e;
 }
@@ -228,7 +220,6 @@ header {
     margin-bottom: 15px;
 }
 
-/* Footer */
 footer {
     text-align: center;
     padding: 22px;
@@ -237,7 +228,6 @@ footer {
     font-size: 14px;
 }
 
-/* Responsive design */
 @media (max-width: 900px) {
     .hero {
         flex-direction: column-reverse;
